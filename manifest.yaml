@@ -1,0 +1,6 @@
+
+applications:
+- name: nodeBasicService
+  memory: 256M
+  path: ./
+  random-route: true
